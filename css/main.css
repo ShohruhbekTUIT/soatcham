@@ -1,4 +1,9 @@
+body {
+  background-color: darkslategray;
+}
+
 .soat {
+  background-color: white;
   position: relative;
   width: 500px;
   height: 500px;
